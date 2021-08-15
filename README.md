@@ -1,3 +1,5 @@
+application runs on port `9001`, `localhost:9001` should show "Hello World!" plus the current date/time
+
 run application: `./gradlew bootRun`
 
 build jar: `./gradlew bootJar`
